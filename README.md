@@ -1,6 +1,6 @@
 # Projet 2 OpenClassrooms : Créez un site en personnalisant un thème WordPress 
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-wordpress.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-wordpress.svg)](http://forthebadge.com)
 
 Vous avez un client : l'office du tourisme de la ville d'Ireki, au Pôle Nord ! Ils souhaitent un site web à l'image de la ville pour attirer des touristes et informer sur les activités proposées.
 
